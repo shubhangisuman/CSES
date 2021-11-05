@@ -1,1 +1,1 @@
-# CSES Problem Solutions 1
+# CSES Problems Solutions 1
